@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/linagurevi/corona-crm#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.2",
     "express": "^4.17.1"
   },
   "devDependencies": {
